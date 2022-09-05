@@ -1,6 +1,6 @@
 # 🐈⬛ \[ roadmap ]
 
-## season 1: solaris
+## \[ season 1: solaris ]
 
 
 
@@ -40,12 +40,12 @@
 
 
 
-## season 2: lunae
+## \[ season 2: lunae ]
 
 
 
 {% tabs %}
-{% tab title="[  what to expect for season two ]" %}
+{% tab title="[  what to expect for season 2 ]" %}
 * [ ] midsumm3r festival.
 * [ ] events for the season.
 * [ ] classes for the season.
