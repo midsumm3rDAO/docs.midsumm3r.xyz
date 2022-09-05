@@ -1,6 +1,6 @@
 # 🐈⬛ \[ roadmap ]
 
-## season one: solaris
+## season 1: solaris
 
 
 
@@ -18,7 +18,7 @@
 * [x] midsumm3r runs a private pre-token fundraising.
 * [x] midsumm3r is hiring for multiple roles.
 * [x] midsumm3r's first production, "the game of $CHOICES", is in pre-production.
-* [x] "n3ophyte fellows" for fall'22 are onboarded.
+* [x] "n3ophyte fellows" for fall '22 are onboarded.
 * [x] midsumm3r fellows vibe at "mcon", "eth berlin", and "hl la dia de los muertos".
 * [x] midsumm3r fellows become part of "the gitcoin kernel KB7" cohort" and "shefi.org season 7".
 {% endtab %}
@@ -34,13 +34,13 @@
 * [ ] "the game of $CHOICES" is premiered at midsumm3r's choices platform - a novel media distribution protocol in the blockchain.
 * [ ] "n3ophyte fellows" for spring '23 are onboarded.
 * [ ] midsumm3r fellows vibe at "eth dubai", "ecu film festival", and "cannes film festival".
-* [ ] midsumm3r announces its roadmap for season two.
+* [ ] midsumm3r announces its roadmap for season 2.
 {% endtab %}
 {% endtabs %}
 
 
 
-## season two: lunae
+## season 2: lunae
 
 
 
