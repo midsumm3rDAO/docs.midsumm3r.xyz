@@ -8,7 +8,7 @@ description: open-source  resources for web3 and daos.
 
 * ****[**our gnosis multisig safe**](http://safe.midsumm3r.xyz/)****
 * ****[**our github account**](https://github.com/Midsumm3rDAO)****
-* ****[**our mirror account**](https://mirror.xyz/midsummeracademy.eth/subscribe)****
+* ****[**our mirror account**](https://mirror.xyz/midsumm3r.eth)****
 
 ****
 
