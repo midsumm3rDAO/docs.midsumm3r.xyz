@@ -27,7 +27,7 @@
 * [ ] midsumm3r's first production, "the game of $CHOICES", is on set.
 * [ ] "n3ophyte fellowship" applications open for spring '23.
 * [ ] midsumm3r fellows vibe at "the paris fantastic film festival", "nft.london", and "eth denver".
-* [ ] midsumm3r's first classes open for enrollment: "hacking + magick aesthetics in filmmaking" and "crypto-pilling as a cypherpunk".
+* [ ] midsumm3r's first classes open for enrollment: "hacking + magick in filmmaking aesthetics" and "crypto-pilling as a cypherpunk".
 {% endtab %}
 
 {% tab title="🌹 spring '23" %}
