@@ -4,6 +4,12 @@ description: open-source  resources for web3 and daos.
 
 # 💻 \[ web3 and daos ]
 
+_****_
+
+_**decentralized autonomous organizations** (DAOs) are a new revolutionary crypto-native type of organization that yields **governance, payment, liquidity, funding, and incorporation** on cryptonetworks through smart contracts._
+
+
+
 ## midsumm3r dao&#x20;
 
 * ****[**our gnosis multisig safe**](http://safe.midsumm3r.xyz/)****
