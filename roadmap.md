@@ -20,7 +20,7 @@
 * [x] midsumm3r's first production, "the game of $CHOICES", is in pre-production.
 * [x] "n3ophyte fellows" for fall '22 are onboarded.
 * [x] midsumm3r fellows vibe at "mcon", "eth berlin", and "hl la dia de los muertos".
-* [x] midsumm3r fellows become part of "the gitcoin kernel KB7" cohort" and "shefi.org season 7".
+* [x] midsumm3r fellows become part of "gitcoin kernel KB7" cohort" and "shefi.org season 7".
 {% endtab %}
 
 {% tab title="❄️ winter '23" %}
