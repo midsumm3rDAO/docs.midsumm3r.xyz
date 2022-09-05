@@ -1,6 +1,6 @@
 # 🐈⬛ \[ roadmap ]
 
-## \[ season 1: SOLAR3S ]
+## \[ season 1: solar3s ]
 
 
 
@@ -40,7 +40,7 @@
 
 
 
-## \[ season 2: LUNA3 ]
+## \[ season 2: lun3s ]
 
 
 
