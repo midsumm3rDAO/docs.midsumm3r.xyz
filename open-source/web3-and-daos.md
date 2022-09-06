@@ -12,9 +12,9 @@ _**decentralized autonomous organizations (DAOs) are disrupting crypto-native en
 
 ## midsumm3r dao&#x20;
 
-* ****[**our gnosis multisig safe**](http://safe.midsumm3r.xyz/)****
 * ****[**our github account**](https://github.com/Midsumm3rDAO)****
 * ****[**our mirror account**](https://mirror.xyz/midsumm3r.eth)****
+* [**our gnosis multisig safe**](http://safe.midsumm3r.xyz/)****
 * ****[**wiki docs for the game of $choices**](https://docs.choices.game/)****
 
 ****
