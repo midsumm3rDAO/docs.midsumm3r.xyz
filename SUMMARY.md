@@ -1,7 +1,7 @@
 # Table of contents
 
-* [\[ 𝚠𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚖𝚒𝚍𝚜𝚞𝚖𝚖𝟹𝚛, 𝚊𝚗𝚘𝚗 \]](README.md)
-* [◼ \[ who are  we \]](who-are-we/README.md)
+* [𝚠𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚖𝚒𝚍𝚜𝚞𝚖𝚖𝟹𝚛, 𝚊𝚗𝚘𝚗](README.md)
+* [◼ \[ who are we \]](who-are-we/README.md)
   * [🤍 why we exit](who-are-we/why-we-exit.md)
   * [🤍 how we make films](who-are-we/how-we-make-films.md)
   * [🤍 why we are a dao](who-are-we/why-we-are-a-dao.md)
