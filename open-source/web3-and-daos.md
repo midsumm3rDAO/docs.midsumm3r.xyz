@@ -1,5 +1,5 @@
 ---
-description: open-source  resources for web3 and daos.
+description: open-source resources for web3 and daos.
 ---
 
 # 💻 \[ web3 and daos ]
