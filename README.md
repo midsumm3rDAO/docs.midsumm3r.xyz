@@ -10,4 +10,4 @@ layout: landing
 
 
 
-<figure><img src=".gitbook/assets/download.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/ROSE_small (1).png" alt=""><figcaption></figcaption></figure>
