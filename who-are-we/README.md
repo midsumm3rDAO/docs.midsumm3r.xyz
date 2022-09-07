@@ -5,11 +5,11 @@ description: >-
   culture.
 ---
 
-# ◼ \[ who are  we ]
+# ◼ \[ who are we ]
 
 
 
-#### w**e are an independent web3 film production and distribution party.**
+#### w**e are a web3 interactive film production and distribution party.**
 
 #### **the problems we are solving are related to the assumptions that:**
 

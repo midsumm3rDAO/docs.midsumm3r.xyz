@@ -10,7 +10,7 @@
 * [x] **casting auditions start for MAA's first production, "the game of $CHOICES".**
 * [x] **"n3ophyte fellowship" applications open for fall '22.**
 * [x] **midsumm3r fellows join "this ain't no picnic clubhouse".**
-* [x] **call for leads to join MAA's core team.**
+* [x] **call for leads to join midsumm3r's core team.**
 * [x] **midsumm3r's director starts an open-source stand-up tradition.**
 {% endtab %}
 
