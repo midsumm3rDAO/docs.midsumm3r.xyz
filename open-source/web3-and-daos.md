@@ -21,11 +21,17 @@ _**decentralized autonomous organizations (DAOs) are disrupting crypto-native en
 
 ## dao tools
 
+
+
+### fundraising
+
+* ****[**juicebox**](https://juicebox.money/)****
+
 ### governance
 
 * [**snapshot**](https://snapshot.org/#/)****
 
-### web3 payments
+### payments
 
 * [**gnosis**](https://gnosis.io/)****
 * ****[**sablier**](https://sablier.finance/)****
