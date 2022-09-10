@@ -8,13 +8,15 @@ _****_
 
 _**decentralized autonomous organizations (DAOs) are disrupting crypto-native entities that yields governance, payment, liquidity, funding, and incorporation on cryptonetworks through smart contracts.**_
 
+_****_
+
 ## midsumm3r dao&#x20;
 
-* ****[**our github account**](https://github.com/Midsumm3rDAO)****
-* ****[**our mirror account**](https://mirror.xyz/midsumm3r.eth)****
-* [**our gnosis multisig**](http://safe.midsumm3r.xyz/)****
-* ****[**our juicebox page**](https://juicebox.money/v2/p/229)****
-* ****[**wiki for the**](https://docs.choices.game/)
+* ****[**github organization**](https://github.com/Midsumm3rDAO)****
+* ****[**mirror account**](https://mirror.xyz/midsumm3r.eth)****
+* [**gnosis multisig**](http://safe.midsumm3r.xyz/)****
+* ****[**juicebox page**](https://juicebox.money/v2/p/229)****
+* ****[**the game of $choices gitbook**](https://docs.choices.game/)****
 
 ## dao tools
 
@@ -54,17 +56,4 @@ _**decentralized autonomous organizations (DAOs) are disrupting crypto-native en
 ### general resources
 
 * [**awesome tokenomics and daos**](https://github.com/bt3gl-labs/Awesome-Tokenomics-and-DAOs)
-
-\
-
-
-## midsumm3r dao <a href="#midsumm3r-dao" id="midsumm3r-dao"></a>
-
-* **​**[**our github account**](https://github.com/Midsumm3rDAO)**​**
-* **​**[**our mirror account**](https://mirror.xyz/midsumm3r.eth)**​**
-* ​[**our gnosis multisig**](http://safe.midsumm3r.xyz/)**​**
-* **​**[**our juicebox page**](https://juicebox.money/v2/p/229)**​**
-* **​**[**wiki for the game of $choices**](https://docs.choices.game/)
-
-
 
