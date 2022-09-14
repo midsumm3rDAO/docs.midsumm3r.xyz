@@ -1,6 +1,6 @@
 # ❔ \[ l3xicon ]
 
-### A
+## A
 
 **actualization**: the process of becoming sentient, perceiving the human condition for what it is, and achieving free will.
 
@@ -78,7 +78,75 @@
 
 
 
+## **G**
+
+**gaiman:** magickian.
+
+**game theory**: "_what the game is, defines what the players do."_
+
+**godspeed you! black emperor**: magickian.
+
+
+
+## H
+
+**hitchcock**: magickian.
+
+**hawaii**: tutu pele and kanaloa's charging locus for humans.
+
+**huxley**: magickian.&#x20;
+
+
+
+## K
+
+**karma:** 1 + 1 = 2; 1 - 1 = 0.
+
+**keanu**: magickian.
+
+**kubrick**: magickian.
+
+**kurosawa**: magickian.
+
+
+
+## L
+
+**lee:** magickian.
+
+**leone**: magickian.
+
+**life**: you only win if you play.
+
+**los angeles:** where we, pseudo-artists, go for glory; also an intense energy battleground locus.
+
+**lynch**: magickian.
+
+
+
+## M
+
+**magick**: _"i master magick, i master free will"._
+
+
+
+## N
+
+**nicks**: a supreme.
+
+**new york:** positive neurosis locus.
+
+**nietzsche**: magickian.
+
+
+
 ## P
+
+**planck:** magickian.
+
+**players**: not naïve, but different.
+
+**polanski**: magickian.
 
 **praga**: alchemy locus.
 
