@@ -1,8 +1,8 @@
 ---
 description: >-
   𝗮𝗿𝘁𝗳𝗶𝗹𝗺: a neo-conceptual art renaissance, meshing symmetrical
-  aesthetically audiovisual narratives with tones of magick and the cypherpunk
-  culture.
+  aesthetically audiovisual narratives with tones of magick and the
+  neo-cypherpunk culture.
 ---
 
 # ◼ \[ who are we ]

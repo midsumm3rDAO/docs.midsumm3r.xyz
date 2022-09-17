@@ -14,7 +14,7 @@
 
 **aster**: magickian.
 
-**artfilm**: a neo-conceptual art renaissance, meshing symmetrical aesthetically audiovisual narratives with tones of magick and the cypherpunk culture.
+**artfilm**: a neo-conceptual art renaissance, meshing symmetrical aesthetically audiovisual narratives with tones of magick and the neo-cypherpunk culture.
 
 
 
