@@ -34,6 +34,7 @@ _****_
 
 * [**gnosis**](https://gnosis.io/)****
 * ****[**sablier**](https://sablier.finance/)****
+* ****[**coordinape**](https://coordinape.com/)****
 
 ### dev corner
 
