@@ -50,6 +50,7 @@
 * [ ] **dao membership program.**
 * [ ] **productions for the season.**
 * [ ] **tokenization and** [**tokenomics**](https://github.com/bt3gl-labs/Awesome-Tokenomics-and-DAOs)**.**
+* [ ] **neo-cypherpunk masterclasses.**
 * [ ] **roadmap for the choices platform.**
 * [ ] **events and classes for the season.**
 * [ ] **distribution and royalties guidelines.**
