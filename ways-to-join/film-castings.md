@@ -6,7 +6,7 @@
 
 ### <mark style="color:purple;">will be open through fall 2022.</mark>
 
-### <mark style="color:purple;">production is scheduled for january 2023.</mark>
+### <mark style="color:purple;">production is scheduled for winter 2023.</mark>
 
 ### <mark style="color:purple;">]</mark>
 
