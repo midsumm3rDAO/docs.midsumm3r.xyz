@@ -8,8 +8,6 @@
 
 **🌹 learn about our interview process** [**here**](https://www.notion.so/midsumm3r/interview-process-at-midsumm3r-2e89b32d141144b2b18c57c7094a2bc8)**.**
 
-**🌹 learn why we default for privacy and anonymity** [**here.**](broken-reference)****
-
 
 
 
