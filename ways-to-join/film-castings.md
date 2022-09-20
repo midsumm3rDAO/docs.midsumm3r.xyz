@@ -16,8 +16,6 @@
 
 **🌹 sign up for our casting auditions** [**here.**](https://e7sof51sgtf.typeform.com/to/LTZ66aCQ?typeform-source=admin.typeform.com)****
 
-**🌹 learn why we default for privacy and anonymity** [**here.**](broken-reference)****
-
 <mark style="color:green;"></mark>
 
 <mark style="color:green;"></mark>
