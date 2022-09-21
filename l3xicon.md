@@ -62,6 +62,8 @@
 
 **ethereal**: a word we love.
 
+**ethereum**: the world computer.
+
 
 
 ## **F**
