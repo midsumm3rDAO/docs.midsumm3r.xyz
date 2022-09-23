@@ -19,7 +19,7 @@
 * [x] **midsumm3r's first production, "the game of $CHOICES", is in pre-production.**
 * [x] **midsumm3r's choices platform - a novel media distribution protocol - is on development.**
 * [x] **"n3ophyte fellows" for fall '22 are onboarded.**
-* [x] **midsumm3r fellows vibe at "mcon" and "hl la dia de los muertos".**
+* [x] **midsumm3r fellows vibe at "mcon", "eth berlin", and "hl la dia de los muertos".**
 * [x] **midsumm3r fellows are part of "gitcoin kernel KB7" cohort" and "shefi season 7".**
 {% endtab %}
 
