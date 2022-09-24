@@ -12,10 +12,10 @@ _****_
 
 ## midsumm3r dao&#x20;
 
-* ****[**github organization**](https://github.com/Midsumm3rDAO)****
 * ****[**mirror account**](https://mirror.xyz/midsumm3r.eth)****
 * [**gnosis multisig**](http://safe.midsumm3r.xyz/)****
 * ****[**juicebox page**](https://juicebox.money/v2/p/229)****
+* [**github organization**](https://github.com/Midsumm3rDAO)****
 * ****[**the game of $choices gitbook**](https://docs.choices.game/)****
 
 ## dao tools
