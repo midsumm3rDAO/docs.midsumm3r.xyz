@@ -6,7 +6,7 @@ description: open-source resources for web3 and daos.
 
 _****_
 
-_**decentralized autonomous organizations (DAOs) are disrupting crypto-native entities that yield governance, payment, liquidity, funding, and incorporation on cryptonetworks through smart contracts.**_
+_**decentralized autonomous organizations (DAOs) are disrupting crypto-native entities that yield governance, funding, and incorporation on cryptonetworks through smart contracts.**_
 
 _****_
 
