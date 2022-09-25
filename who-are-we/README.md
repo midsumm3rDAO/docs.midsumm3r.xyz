@@ -27,8 +27,6 @@ description: >-
 
 #### **the world already has enough vaporware and shallow hypes.**&#x20;
 
-#### **we build for our own community, in public, and for the future.**
-
-****
+#### **we build for our own community, in public, and for pluto in aquarius.**
 
 ****
