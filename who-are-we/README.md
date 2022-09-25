@@ -9,7 +9,7 @@ description: >-
 
 
 
-#### w**e are a web3 interactive film production and distribution party.**
+#### w**e are a neo-cypherpunk free-will based film production + distribution party.**
 
 #### **the problems we are solving are related to the assumptions that:**
 
