@@ -31,8 +31,6 @@ description: >-
 
 #### _**we build for our own community,**_&#x20;
 
-#### _**in public, and**_&#x20;
-
-#### _**for pluto in aquarius.**_
+#### _**in public, and for pluto in aquarius.**_
 
 ****
