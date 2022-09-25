@@ -12,7 +12,7 @@ description: >-
 
 
 
-**the future does not need to be like the past.**
+**there must be a way out.**
 
 ****
 
