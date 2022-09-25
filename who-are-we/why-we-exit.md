@@ -12,7 +12,7 @@ description: >-
 
 
 
-**the future is here and it needs alternatives.**
+**the future does not need to be like the past.**
 
 ****
 

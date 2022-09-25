@@ -19,7 +19,9 @@ description: >-
 
 **🌹 there is an urgency to elevate finesse in films;**
 
-**🌹 web3 and interactivity will disrupt storytelling.**
+**🌹 web3 and interactivity will disrupt storytelling;**
+
+**🌹 magick is real.**
 
 ****
 
