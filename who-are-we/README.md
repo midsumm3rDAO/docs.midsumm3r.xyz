@@ -25,7 +25,7 @@ description: >-
 
 ****
 
-#### _**the world already has enough**_&#x20;
+#### _**the world has already enough**_&#x20;
 
 #### _**vaporware and shallow hypes.**_&#x20;
 
