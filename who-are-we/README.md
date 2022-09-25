@@ -25,14 +25,14 @@ description: >-
 
 ****
 
-#### **the world already has enough**&#x20;
+#### _**the world already has enough**_&#x20;
 
-#### **vaporware and shallow hypes.**&#x20;
+#### _**vaporware and shallow hypes.**_&#x20;
 
-#### **we build for our own community,**&#x20;
+#### _**we build for our own community,**_&#x20;
 
-#### **in public, and**&#x20;
+#### _**in public, and**_&#x20;
 
-#### **for pluto in aquarius.**
+#### _**for pluto in aquarius.**_
 
 ****
