@@ -22,9 +22,9 @@ description: '"i was a neophyte in another world" - jean-paul sartre'
 
 **🌹 the choice of being part of our productions;**
 
-**🌹 1-1 tutoring (on a request basis);**
-
 **🌹 safe havens at any of our academy's houses;**
+
+**🌹 1-1 tutoring (on a request basis);**
 
 **🌹 and, of course, cool swags.**&#x20;
 
