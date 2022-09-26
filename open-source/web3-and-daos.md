@@ -16,6 +16,7 @@ _****_
 * [**gnosis multisig**](http://safe.midsumm3r.xyz/)****
 * [**github organization**](https://github.com/Midsumm3rDAO)****
 * ****[**the game of $choices gitbook**](https://docs.choices.game/)****
+* ****[**bt3gl's open-source standup**](https://www.youtube.com/midsumm3r)****
 
 ## dao tools
 
