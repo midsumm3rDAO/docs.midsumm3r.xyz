@@ -7,8 +7,6 @@ description: >-
 
 # ◼ \[ who are we ]
 
-
-
 #### w**e are a neo-cypherpunk free-will based film production + distribution party.**
 
 #### **the problems we are solving are related to the assumptions that:**
@@ -32,5 +30,3 @@ description: >-
 #### _**we build for our own community,**_&#x20;
 
 #### _**in public, and for pluto in aquarius.**_
-
-****
