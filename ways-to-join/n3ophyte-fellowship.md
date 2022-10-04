@@ -8,7 +8,7 @@ description: '"i was a neophyte in another world" - jean-paul sartre'
 
 
 
-**the **<mark style="color:purple;">**midsumm3r n3ophyte fellowship**</mark>** is an opportunity for folks with little experience in filmmaking to get paid to pursue their storytelling passion with us (in front or behind the cameras).**
+<mark style="color:purple;">**midsumm3r n3ophyte fellowship**</mark>** is an opportunity for folks with little experience in filmmaking to get paid to pursue their storytelling passion with us (in front or behind the cameras).**
 
 
 
