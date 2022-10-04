@@ -1,3 +1,7 @@
+---
+description: open-source resources for film pre-production.
+---
+
 # 💲 \[ pre-production ]
 
 ## software and gear

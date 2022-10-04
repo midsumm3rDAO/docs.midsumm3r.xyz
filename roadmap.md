@@ -32,7 +32,7 @@
 {% tab title="🌹 spring '23" %}
 * [ ] **n3ophyte fellows for spring '23 are onboarded.**
 * [ ] **midsumm3r announces the roadmap for season 2.**
-* [ ] **"the game of $CHOICES" launches at the midsumm3r's free-will based protocol.**
+* [ ] **"the game of $CHOICES" launches at midsumm3r's free-will based protocol.**
 * [ ] **midsumm3r fellows vibe at "eth dubai", "ecu film festival", and "cannes film festival".**
 {% endtab %}
 {% endtabs %}
@@ -44,7 +44,7 @@
 
 
 {% tabs %}
-{% tab title="[  what to expect for season 2 and beyond ]" %}
+{% tab title="[  what to expect for season 2 + beyond ]" %}
 * [ ] **more games and more $CHOICES.**
 * [ ] **neo-cypherpunk + magick + artfilm masterclasses.**
 * [ ] **midsumm3r festival debut + community events for the season.**

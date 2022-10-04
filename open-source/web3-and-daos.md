@@ -10,14 +10,6 @@ _**decentralized autonomous organizations (DAOs) are disrupting crypto-native en
 
 _****_
 
-## midsumm3r dao&#x20;
-
-* ****[**mirror account**](https://mirror.xyz/midsumm3r.eth)****
-* [**gnosis multisig**](http://safe.midsumm3r.xyz/)****
-* [**github organization**](https://github.com/Midsumm3rDAO)****
-* ****[**the game of $choices gitbook**](https://docs.choices.game/)****
-* ****[**bt3gl's open-source stand-up**](https://www.youtube.com/midsumm3r)****
-
 ## dao tools
 
 
@@ -54,7 +46,7 @@ _****_
 
 
 
-### general resources
+### general
 
 * [**awesome tokenomics and daos**](https://github.com/bt3gl-labs/Awesome-Tokenomics-and-DAOs)
 

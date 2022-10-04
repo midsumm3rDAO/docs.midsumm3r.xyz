@@ -1,3 +1,7 @@
+---
+description: open-source resources for film post-production.
+---
+
 # 🎞 \[ post-production ]
 
 ## software and gear
