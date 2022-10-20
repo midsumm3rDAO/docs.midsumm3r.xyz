@@ -23,15 +23,17 @@
 {% endtab %}
 
 {% tab title="❄️ winter '23" %}
-**we are heads down working on our free-will based protocol and our first production, "the game of $CHOICES".**&#x20;
-
-**🧸 == 🏗**
+* [ ] **"the game of $CHOICES" is on set.**
+* [ ] **n3ophyte fellowship applications open for spring '23.**
+* [ ] **midsumm3r's free-will based protocol launches private beta.**
+* [ ] **midsumm3r fellows vibe at "the paris fantastic film festival", "nft.london", and "eth denver".**
 {% endtab %}
 
 {% tab title="🌹 spring '23" %}
-**we are heads down working on our free-will based protocol and our first production, "the game of $CHOICES".**
-
-**🧸 == 🏗**
+* [ ] **n3ophyte fellows for spring '23 are onboarded.**
+* [ ] **midsumm3r announces the roadmap for season 2.**
+* [ ] **"the game of $CHOICES" launches at midsumm3r's free-will based protocol.**
+* [ ] **midsumm3r fellows vibe at "eth dubai", "ecu film festival", and "cannes film festival".**
 {% endtab %}
 {% endtabs %}
 
@@ -43,12 +45,12 @@
 
 {% tabs %}
 {% tab title="[  what to expect for season 2 + beyond ]" %}
-* [ ] **midsumm3r's free-will based protocol and "the game of $CHOICES" launches.**
-* [ ] **tokenization + tokenomics, with 1% airdrop to $REEL + $WAGMI + $FILMMAKER hodlers.**&#x20;
-* [ ] **guidelines for midsumm3r dao.**
-* [ ] **guidelines for distribution + royalties.**
-* [ ] **midsumm3r festival + community events.**
+* [ ] **more games and more $CHOICES.**
 * [ ] **neo-cypherpunk + magick + artfilm masterclasses.**
+* [ ] **midsumm3r festival debut + community events for the season.**
+* [ ] **guidelines for midsumm3r dao's (exclusive) membership program.**
+* [ ] **tokenization + tokenomics, with 1% airdrop to $REEL + $WAGMI + $FILMMAKER hodlers.**&#x20;
+* [ ] **roadmap for midsumm3r's free-will based protocol, with guidelines for distribution + royalties.**
 {% endtab %}
 {% endtabs %}
 
