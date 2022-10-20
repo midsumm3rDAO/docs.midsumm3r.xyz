@@ -34,9 +34,9 @@ description: '"i was a neophyte in another world" - jean-paul sartre'
 
 
 
-**applications for **<mark style="color:purple;">**fall/22**</mark>** are closed.**
+**applications for 2022 **<mark style="color:purple;">****</mark>** are closed.**
 
-**new round of applications starts in winter.**
+**new round of applications opens in 2023.**
 
 
 

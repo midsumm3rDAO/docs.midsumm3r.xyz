@@ -2,15 +2,11 @@
 
 ### <mark style="color:purple;">\[</mark>&#x20;
 
-### <mark style="color:purple;">auditions for</mark>&#x20;
+### <mark style="color:purple;">auditions for the</mark> <mark style="color:red;">game of $CHOICES</mark>
 
-### <mark style="color:red;">the</mark> <mark style="color:purple;"></mark> <mark style="color:red;">game of $CHOICES</mark>
+### <mark style="color:purple;">will be open through fall 2022.</mark>
 
-### <mark style="color:purple;">are continually open,</mark>&#x20;
-
-### <mark style="color:purple;">with production</mark>&#x20;
-
-### <mark style="color:purple;">scheduled to begin in 2023.</mark>
+### <mark style="color:purple;">production is scheduled for winter 2023.</mark>
 
 ### <mark style="color:purple;">]</mark>
 
@@ -42,6 +38,6 @@
 
 **🌹 an opportunity of impressing us and joining midsummer core;**
 
-**🌹 an opportunity to shape the **_**future**_** with us.**
+**🌹 an opportunity to shape the **_**future of the 7th art**_** with us.**
 
 ****
