@@ -1,6 +1,6 @@
 # 🐈⬛ \[ roadmap ]
 
-## \[ season 1]
+## \[ season 0]
 
 
 
@@ -26,7 +26,7 @@
 
 
 
-## \[ season 2 **+ beyond** ]
+## \[ season 1 **+ beyond** ]
 
 
 
