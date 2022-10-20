@@ -5,7 +5,7 @@
 
 
 {% tabs %}
-{% tab title="lun3s" %}
+{% tab title="L U N 3 S" %}
 ## **🧸 == 🏗**
 
 ****
@@ -31,7 +31,7 @@
 
 
 {% tabs %}
-{% tab title="solar3s" %}
+{% tab title="S O L A R 3 S" %}
 * [ ] **the free-will based protocol launches.**
 * [ ] **"the game of $CHOICES" launches.**
 * [ ] **guidelines for midsumm3r dao.**
