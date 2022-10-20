@@ -23,11 +23,15 @@
 {% endtab %}
 
 {% tab title="❄️ winter '23" %}
-**we are heads down working on our free-will based protocol and our first production, "the game of $CHOICES".**
+**we are heads down working on our free-will based protocol and our first production, "the game of $CHOICES".**&#x20;
+
+**🧸 == 🏗**
 {% endtab %}
 
 {% tab title="🌹 spring '23" %}
 **we are heads down working on our free-will based protocol and our first production, "the game of $CHOICES".**
+
+**🧸 == 🏗**
 {% endtab %}
 {% endtabs %}
 
@@ -39,9 +43,9 @@
 
 {% tabs %}
 {% tab title="[  what to expect for season 2 + beyond ]" %}
-* [ ] **launch of our free-will based protocol and our first production, "the game of $CHOICES".**
+* [ ] **midsumm3r's free-will based protocol and "the game of $CHOICES" launches.**
 * [ ] **tokenization + tokenomics, with 1% airdrop to $REEL + $WAGMI + $FILMMAKER hodlers.**&#x20;
-* [ ] **guidelines for midsumm3r dao's (exclusive) membership program.**
+* [ ] **guidelines for midsumm3r dao.**
 * [ ] **guidelines for distribution + royalties.**
 * [ ] **midsumm3r festival + community events.**
 * [ ] **neo-cypherpunk + magick + artfilm masterclasses.**
