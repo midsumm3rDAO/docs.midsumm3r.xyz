@@ -16,9 +16,9 @@ description: i was a neophyte in another world.
 
 **also:**
 
-**🌹 exclusive gatherings;**
+**🌹 be part of our productions;**
 
-**🌹 be part;**
+**🌹 exclusive gatherings;**
 
 **🌹 1-1 tutoring;**
 
@@ -36,7 +36,7 @@ description: i was a neophyte in another world.
 
 
 
-## what would i be doing as a fellow?
+## what will i do as a fellow?
 
 
 
