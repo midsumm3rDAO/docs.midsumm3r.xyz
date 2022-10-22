@@ -40,7 +40,7 @@ description: i was a neophyte in another world.
 
 
 
-**you already know what you want to do.**
+**you already know.**
 
 
 
