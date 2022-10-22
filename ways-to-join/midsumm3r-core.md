@@ -14,7 +14,7 @@
 |                                                                |                      **ultimately, freedom of **_**thought**_                     |
 |      <mark style="color:purple;">**what we offer**</mark>      |                                         🜁                                        |
 |                                                                |                               **fair compensation**                               |
-|                                                                |                            **fair equity distribution**                           |
+|                                                                |                                  **fair equity**                                  |
 |                                                                |                               **celebratory events**                              |
 |                                                                |                          **get paid in cryptocurrencies**                         |
 |                                                                |                               **the gear you need**                               |
