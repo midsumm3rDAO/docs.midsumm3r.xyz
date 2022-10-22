@@ -16,7 +16,7 @@ description: '"i was a neophyte in another world" - jean-paul sartre'
 
 
 
-**neophytes will also be receiving the same benefits from our core team, which includes:**
+**neophytes will also be receiving the same benefits from our core team, which include:**
 
 **🌹 invites to our exclusive gatherings;**
 
