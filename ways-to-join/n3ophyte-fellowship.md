@@ -1,14 +1,12 @@
 ---
-description: '"i was a neophyte in another world" - jean-paul sartre'
+description: i was a neophyte in another world.
 ---
 
 # ◻ n3ophyte fellowship
 
-## what is this fellowship?
+****
 
-
-
-<mark style="color:purple;">**midsumm3r n3ophyte fellowship**</mark>** is an opportunity for folks with little experience in storytelling to get paid to pursue their passion with us (in front or behind the cameras).**
+**an opportunity for folks with little experience in storytelling to get paid to pursue their passion.**
 
 
 
@@ -16,17 +14,17 @@ description: '"i was a neophyte in another world" - jean-paul sartre'
 
 
 
-**neophytes will also be receiving the same benefits from our core team, which includes:**
+**also:**
 
-**🌹 invites to our exclusive gatherings;**
+**🌹 be part of our productions;**
 
-**🌹 the choice of being part of our productions;**
+**🌹 exclusive gatherings;**
 
-**🌹 safe havens at any of our houses;**
+**🌹 1-1 tutoring;**
 
-**🌹 1-1 tutoring (on a request basis);**
+**🌹 havens;**
 
-**🌹 and, of course, cool swags.**&#x20;
+**🌹 swags.**&#x20;
 
 
 
@@ -38,11 +36,11 @@ description: '"i was a neophyte in another world" - jean-paul sartre'
 
 
 
-## what would i be doing as a fellow?
+## what will i do as a fellow?
 
 
 
-**you already know what you want to do.**
+**you already know.**
 
 
 
