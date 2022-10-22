@@ -28,7 +28,7 @@
 
 ****
 
-**🌹 competitive compensation;**
+**🌹 fair compensation;**
 
 **🌹 high-quality healthy on-set catering;**
 
