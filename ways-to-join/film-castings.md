@@ -16,11 +16,11 @@
 
 **🌹 exclusive events;**
 
+**🌹 healthy catering;**
+
 **🌹 fair compensation;**
 
-**🌹 healthy on-set catering;**
-
-**🌹 on-set hair and make-up team;**
+**🌹 hair and make-up team;**
 
 **🌹 option to get paid in cryptocurrencies;**
 
