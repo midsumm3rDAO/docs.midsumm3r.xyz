@@ -14,7 +14,7 @@ description: i was a neophyte in another world.
 
 
 
-**neophytes will also be receiving the same benefits from our core team, which include:**
+**also:**
 
 **🌹 exclusive gatherings;**
 
