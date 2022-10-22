@@ -15,8 +15,8 @@
 |      <mark style="color:purple;">**what we offer**</mark>      |                                         🜁                                        |
 |                                                                |                               **fair compensation**                               |
 |                                                                |                                  **fair equity**                                  |
+|                                                                |                             **fair digital currency**                             |
 |                                                                |                               **celebratory events**                              |
-|                                                                |                          **get paid in cryptocurrencies**                         |
 |                                                                |                               **the gear you need**                               |
 |                                                                |                                  **safe havens**                                  |
 |                                                                |                                 **pick the title**                                |
