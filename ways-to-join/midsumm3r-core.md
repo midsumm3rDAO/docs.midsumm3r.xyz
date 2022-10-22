@@ -22,7 +22,7 @@
 |                                                                |                       **pick the title**                       |
 | <mark style="color:purple;">**how you become a leader**</mark> |                               🜂                               |
 |                              ❤️‍🔥                             | **be a pioneer at a **_**dao in art, technology, and magick**_ |
-|                              ❤️‍🔥                             |  **define **_**the next generation's storytelling aesthetic**_ |
+|                              ❤️‍🔥                             |        **define **_**the next storytelling aesthetic**_        |
 |                              ❤️‍🔥                             |       **build your own path as we shape **_**the future**_     |
 
 ****
