@@ -8,27 +8,13 @@
 
 ### <mark style="color:purple;">are endlessly open,</mark>&#x20;
 
-### <mark style="color:purple;">with production</mark>&#x20;
-
-### <mark style="color:purple;">scheduled to begin in 2023.</mark>
-
 ### <mark style="color:purple;">]</mark>
 
-<mark style="color:purple;"></mark>
+## <mark style="color:purple;">**expect**</mark>&#x20;
 
 ****
 
-**🌹 sign up for our casting auditions** [**here.**](https://e7sof51sgtf.typeform.com/to/LTZ66aCQ?typeform-source=admin.typeform.com)****
-
-<mark style="color:green;"></mark>
-
-<mark style="color:green;"></mark>
-
-## <mark style="color:purple;">**what to expect when working with us**</mark>
-
-****
-
-**🌹 competitive compensation;**
+**🌹 fair compensation;**
 
 **🌹 high-quality healthy on-set catering;**
 
