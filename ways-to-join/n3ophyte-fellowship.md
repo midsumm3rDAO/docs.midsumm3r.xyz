@@ -16,15 +16,15 @@ description: i was a neophyte in another world.
 
 **neophytes will also be receiving the same benefits from our core team, which include:**
 
-**🌹 invites to our exclusive gatherings;**
+**🌹 exclusive gatherings;**
 
-**🌹 the choice of being part of our productions;**
+**🌹 be part of our productions;**
 
-**🌹 safe havens at any of our houses;**
+**🌹 havens at any of our houses;**
 
-**🌹 1-1 tutoring (on a request basis);**
+**🌹 1-1 tutoring;**
 
-**🌹 and, of course, cool swags.**&#x20;
+**🌹 swags.**&#x20;
 
 
 
