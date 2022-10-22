@@ -8,11 +8,7 @@ description: i was a neophyte in another world.
 
 **an opportunity for folks with little experience in storytelling to get paid to pursue their passion.**
 
-
-
 **fellows will be awarded **<mark style="color:purple;">**$10k**</mark>** (USDC).**
-
-
 
 **also:**
 
@@ -26,7 +22,7 @@ description: i was a neophyte in another world.
 
 **🌹 swags.**&#x20;
 
-
+****
 
 ## wen?
 
@@ -51,6 +47,4 @@ description: i was a neophyte in another world.
 **convince us that you know what we are thinking.**
 
 **anon  🏧  midsumm3r 👙 xyz**
-
-
 
