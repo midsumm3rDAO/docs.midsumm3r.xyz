@@ -44,9 +44,3 @@ _****_
 * ****[**manifold**](https://www.manifold.xyz/)****
 * ****[**guild**](https://guild.xyz/)****
 
-
-
-### general
-
-* [**awesome tokenomics and daos**](https://github.com/bt3gl-labs/Awesome-Tokenomics-and-DAOs)
-
