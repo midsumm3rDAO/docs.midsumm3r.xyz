@@ -26,7 +26,7 @@
 
 
 
-## \[ season 1 **+ beyond** ]
+## \[ season 1 **→ ∞** ]
 
 
 
@@ -37,7 +37,7 @@
 * [ ] **guidelines for midsumm3r dao.**
 * [ ] **tokenization + tokenomics.**
 * [ ] **guidelines for distribution + royalties.**
-* [ ] **midsumm3r festival + community events.**
+* [ ] **midsumm3r festival + exclusive events.**
 * [ ] **neo-cypherpunk, magick, artfilm masterclasses.**
 {% endtab %}
 {% endtabs %}
