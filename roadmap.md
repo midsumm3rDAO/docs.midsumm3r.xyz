@@ -1,6 +1,6 @@
 # 🐈⬛ \[ roadmap ]
 
-## \[ season 0]
+## \[ season 0 ]
 
 
 
