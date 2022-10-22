@@ -18,11 +18,11 @@ description: i was a neophyte in another world.
 
 **🌹 exclusive gatherings;**
 
-**🌹 be part of our productions;**
-
-**🌹 havens at any of our houses;**
+**🌹 be part;**
 
 **🌹 1-1 tutoring;**
+
+**🌹 havens;**
 
 **🌹 swags.**&#x20;
 
