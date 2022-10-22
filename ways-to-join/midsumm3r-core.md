@@ -1,9 +1,5 @@
 # ◻ midsumm3r core
 
-## benefits we offer
-
-<mark style="color:green;"></mark>
-
 |                               🧩                               |                             🧩                             |
 | :------------------------------------------------------------: | :--------------------------------------------------------: |
 |   <mark style="color:purple;">**how we do our craft**</mark>   |                             🜃                             |
@@ -21,7 +17,5 @@
 |                                                                |                       **safe havens**                      |
 |                                                                |                     **pick the title**                     |
 | <mark style="color:purple;">**how you become a leader**</mark> |                             🜂                             |
-|                              ❤️‍🔥                             | **be a pioneer at a **_**dao in art, technology, magick**_ |
-|                              ❤️‍🔥                             |      **define **_**the next storytelling aesthetic**_      |
-
-****
+|                                                                | **be a pioneer at a **_**dao in art, technology, magick**_ |
+|                                                                |      **define **_**the next storytelling aesthetic**_      |
