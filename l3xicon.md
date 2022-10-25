@@ -58,6 +58,8 @@
 
 **dubai:** cypherpunk locus.
 
+**dying**: we don't die, we bend reality.
+
 
 
 ## E
