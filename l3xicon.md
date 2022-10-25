@@ -88,6 +88,8 @@
 
 **game theory**: "_what the game is, defines what the players do."_
 
+**gatekeepers**_:_ we are coming for ya.
+
 **godspeed you! black emperor**: magickian.
 
 
