@@ -44,6 +44,8 @@
 
 **chomsky**: magickian.
 
+**code**: == law.
+
 **confirmation bias:** don't let your will fool you.
 
 **cypherpunks**: we already live in the future; so what do you do now?
