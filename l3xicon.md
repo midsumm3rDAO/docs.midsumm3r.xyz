@@ -176,6 +176,8 @@
 
 **serendipitous:** a word we love.
 
+**self-sovereignty:** any human has the choice of being more than meat.
+
 **simulation**: welcome and enjoy your stay.
 
 **scorsese**: magickian.
@@ -201,6 +203,8 @@
 **time**: a human construct.&#x20;
 
 **timeless**: a word we love (and others seem to love too).
+
+**trustless**: only trust your own reason and intuition.
 
 
 
