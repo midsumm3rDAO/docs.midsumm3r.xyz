@@ -14,6 +14,8 @@
 
 **aster**: magickian.
 
+**astrology**: set of directive that can be described by [group theory](http://www.astro.sunysb.edu/steinkirch/books/group.pdf) and where a player starts as the fool.
+
 **artfilm**: a neo-conceptual art renaissance, meshing symmetrical aesthetically audiovisual narratives with tones of magick and the neo-cypherpunk culture.
 
 
@@ -207,6 +209,8 @@
 **time**: a human construct.&#x20;
 
 **timeless**: a word we love (and others seem to love too).
+
+**the fool:** respect the beginner mindset.
 
 **trustless**: only trust your own reason and intuition.
 
