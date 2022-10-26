@@ -2,9 +2,9 @@
 
 ## A
 
-**actualization**: the process of becoming sentient, perceiving the human condition for what it is, and achieving [free will](https://docs.choices.game/).
+**actualization**: the process of becoming sentient, perceiving the human condition for what it is, and achieving free will.
 
-**alchemy**: mastering the craft of [magick](https://docs.choices.game/choices/choose-your-adventure/alchemy). was newton a fool?
+**alchemy**: mastering the craft of magick. was newton a fool?
 
 **algorithms**: learn 'em to break 'em.
 
@@ -14,9 +14,7 @@
 
 **aster**: magickian.
 
-**astrology**: set of directives that can be described by [group theory](https://docs.choices.game/choices/choose-your-adventure/astrophysics/the-usdchoice-of-physics/group-theory), a subfield of abstract algebra, on which a player starts as the fool.
-
-**artfilm**: a neo-conceptual art renaissance movement, meshing symmetrical aesthetically audiovisual narratives with tones of magick and the neo-cypherpunk culture.
+**artfilm**: a neo-conceptual art renaissance, meshing symmetrical aesthetically audiovisual narratives with tones of magick and the neo-cypherpunk culture.
 
 
 
@@ -68,7 +66,7 @@
 
 **ethereal**: a word we love.
 
-**ethereum**: the world [computer](https://docs.choices.game/choices/choose-your-adventure/undefined-1).
+**ethereum**: the world computer.
 
 
 
@@ -188,7 +186,7 @@
 
 **scorsese**: magickian.
 
-**steganography**: can you see the [hidden](https://github.com/MEV-WAIFU-LABS/hidden\_figures\_of\_the\_metaverse) picture?
+**steganography**: can you see the hidden picture?
 
 **synchronicity**: a jungian explanation for coincidences; also, magick reverberation.
 
@@ -204,13 +202,11 @@
 
 **tarkovsky**: magickian.
 
-**tarot:** a self-realization [tool](https://docs.choices.game/choices/choose-your-adventure/tarot); part of an artist's toolkit.
+**tarot:** a self-realization tool; part of an artist's toolkit.
 
 **time**: a human construct.&#x20;
 
 **timeless**: a word we love (and others seem to love too).
-
-**the fool:** respect the beginner's mindset.
 
 **trustless**: only trust your own reason and intuition.
 
