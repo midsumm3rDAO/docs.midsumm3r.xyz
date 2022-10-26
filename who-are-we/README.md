@@ -1,6 +1,6 @@
 ---
 description: >-
-  𝗮𝗿𝘁𝗳𝗶𝗹𝗺: a neo-conceptual art renaissance, meshing symmetrical
+  𝗮𝗿𝘁𝗳𝗶𝗹𝗺: a neo-conceptual art renaissance movement, meshing symmetrical
   aesthetically audiovisual narratives with tones of magick and the
   neo-cypherpunk culture.
 ---
@@ -15,7 +15,7 @@ description: >-
 
 **🌹 the industry is disenchanted, overlooking valuable narratives;**
 
-**🌹 there is an urgency to elevate finesse and art in films;**
+**🌹 there is an urgency to elevate finesse and art in film;**
 
 **🌹 web3 and interactivity will disrupt storytelling;**
 
