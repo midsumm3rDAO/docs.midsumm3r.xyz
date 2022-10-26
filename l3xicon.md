@@ -194,7 +194,7 @@
 
 **serendipitous:** a word we love.
 
-**self-sovereignty:** players are the protagonist of their life. no player is allowed to treat another player like meat under the premise that they hold some (unearned) privilege.
+**self-sovereignty:** players are the protagonist of their life. no player is allowed to treat another player like meat under the premise that they hold some (usually unearned) privilege.
 
 **simulation**: welcome and enjoy your stay.
 
