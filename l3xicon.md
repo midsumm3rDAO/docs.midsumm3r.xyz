@@ -14,7 +14,7 @@
 
 **aster**: magickian.
 
-**astrology**: set of directives that can be described by [group theory](http://www.astro.sunysb.edu/steinkirch/books/group.pdf), a subfield of abstract algebra, and where a player starts as the fool.
+**astrology**: set of directives that can be described by [group theory](http://www.astro.sunysb.edu/steinkirch/books/group.pdf), a subfield of abstract algebra, on which a player starts as the fool.
 
 **artfilm**: a neo-conceptual art renaissance, meshing symmetrical aesthetically audiovisual narratives with tones of magick and the neo-cypherpunk culture.
 
