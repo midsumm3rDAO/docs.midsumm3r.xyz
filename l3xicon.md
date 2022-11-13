@@ -216,7 +216,7 @@
 
 **tarkovsky**: magickian.
 
-**tarot:** a self-realization [tool](https://docs.choices.game/choices/choose-your-adventure/tarot); part of an artist's toolkit.
+**tarot:** a self-realization [tool](https://docs.choices.game/choices/choose-your-adventure/tarot); part of an artist's and/or magickian's toolkit.
 
 **time**: a human construct.&#x20;
 
