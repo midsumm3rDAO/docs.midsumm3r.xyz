@@ -66,7 +66,7 @@
 
 ## E
 
-**eclipses**: can you handle the power?
+**eclipses**: just planetary shadow; also, can you handle the power?
 
 **ethereal**: a word we love.
 
