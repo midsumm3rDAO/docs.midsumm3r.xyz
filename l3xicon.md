@@ -248,5 +248,5 @@
 
 **whimsical:** a word we love.
 
-**will**: a human's desire to change an outcome.
+**will**: a human's desire to change an outcome; also the highest power source in the game.
 
