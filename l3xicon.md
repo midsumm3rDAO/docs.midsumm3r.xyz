@@ -230,7 +230,7 @@
 
 ## U
 
-**ursula le guin:** a supreme.
+**ursula k le guin:** a supreme.
 
 
 
