@@ -66,6 +66,8 @@
 
 ## E
 
+**eclipses**: can you handle the power?
+
 **ethereal**: a word we love.
 
 **ethereum**: the world [computer](https://docs.choices.game/choices/choose-your-adventure/undefined-1).
