@@ -11,7 +11,6 @@
   * [◻ n3ophyte fellowship](ways-to-join/n3ophyte-fellowship.md)
   * [◻ midsumm3r dao](ways-to-join/midsumm3r-dao.md)
   * [◻ midsumm3r token](ways-to-join/midsumm3r-token.md)
-  * [◻ film f3stival](ways-to-join/film-f3stival.md)
 * [🐈⬛ \[ roadmap \]](roadmap.md)
 * [❔ \[ l3xicon \]](l3xicon.md)
 

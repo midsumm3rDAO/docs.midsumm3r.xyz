@@ -29,9 +29,8 @@
 * [ ] **the free-will based protocol.**
 * [ ] **"the game of $CHOICES".**
 * [ ] **midsumm3r dao.**
-* [ ] **tokenomics.**
-* [ ] **midsumm3r festival.**
 * [ ] **masterclasses.**
+* [ ] **events.**
 {% endtab %}
 {% endtabs %}
 
