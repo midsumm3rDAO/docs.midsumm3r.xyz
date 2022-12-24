@@ -1,32 +1,14 @@
 ---
 description: >-
-  𝗮𝗿𝘁𝗳𝗶𝗹𝗺: a neo-conceptual art renaissance movement, meshing symmetrical
-  aesthetically audiovisual narratives with tones of magick and the
+  𝗮𝗿𝘁𝗳𝗶𝗹𝗺: a neo-conceptual magick renaissance movement, meshing
+  symmetrical aesthetically audiovisual narratives with tones of the
   neo-cypherpunk culture.
 ---
 
 # ◼ \[ who are we ]
 
-#### w**e are a neo-cypherpunk free-will based film production + distribution party.**
+**🌹** w**e are a neo-cypherpunk free-will based film production + distribution party.**
 
-#### **the problems we are solving are related to the assumptions that:**
+#### **🌹 the problems we are solving are related to the assumptions that magick is real.**
 
-****
-
-**🌹 the industry is disenchanted, overlooking valuable narratives;**
-
-**🌹 there is an urgency to elevate finesse and art in film;**
-
-**🌹 web3 and interactivity will disrupt storytelling;**
-
-**🌹 magick is real.**
-
-****
-
-#### _**the world has already enough**_&#x20;
-
-#### _**vaporware and shallow hypes.**_&#x20;
-
-#### _**we build for our own community,**_&#x20;
-
-#### _**in public, and for pluto in aquarius.**_
+#### **🌹 we build in public, and for pluto in aquarius.**
