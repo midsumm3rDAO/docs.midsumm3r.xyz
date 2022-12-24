@@ -8,40 +8,20 @@
 
 ### <mark style="color:purple;">are endlessly open,</mark>&#x20;
 
-### <mark style="color:purple;">with production</mark>&#x20;
-
-### <mark style="color:purple;">scheduled to begin in 2023.</mark>
-
 ### <mark style="color:purple;">]</mark>
 
-<mark style="color:purple;"></mark>
+## <mark style="color:purple;">**expect**</mark>&#x20;
 
 ****
 
-**🌹 sign up for our casting auditions** [**here.**](https://e7sof51sgtf.typeform.com/to/LTZ66aCQ?typeform-source=admin.typeform.com)****
+**🌹 exclusive events;**
 
-<mark style="color:green;"></mark>
+**🌹 healthy catering;**
 
-<mark style="color:green;"></mark>
+**🌹 fair compensation;**
 
-## <mark style="color:purple;">**what to expect when working with us**</mark>
+**🌹 hair and make-up team;**
 
-****
+**🌹 option to get paid in cryptocurrencies;**
 
-**🌹 competitive compensation;**
-
-**🌹 high-quality healthy on-set catering;**
-
-**🌹 an incredible on-set hair and make-up team;**
-
-**🌹 a fair share of the distribution rights and royalties;**
-
-**🌹 option to get paid in cryptocurrencies (usually stablecoins such as usdc);**
-
-**🌹 invitation to our trips and events (celebrations, film festivals, concerts, web3 gatherings);**
-
-**🌹 an opportunity of impressing us and joining midsummer core;**
-
-**🌹 an opportunity to shape the **_**future**_** with us.**
-
-****
+**🌹 ownership.**
