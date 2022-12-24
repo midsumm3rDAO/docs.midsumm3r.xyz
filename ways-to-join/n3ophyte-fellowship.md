@@ -6,7 +6,7 @@ description: i was a neophyte in another world.
 
 ****
 
-**an opportunity for folks with little experience in storytelling to get paid to pursue their passion.**
+**an opportunity for folks with little magick experience to get paid to pursue their passion.**
 
 **fellows will be awarded **<mark style="color:purple;">**$10k**</mark>** (USDC).**
 

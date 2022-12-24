@@ -14,8 +14,6 @@ description: '/ˌ𝗳𝗿ē ˈ𝘄𝗶𝗹/ (𝗻𝗼𝘂𝗻): a person''s own 
 
 **choices are infinite, no need to hurry.**&#x20;
 
-**learn what daos are** [**here**](../open-source/web3-and-daos.md)**.**
-
 
 
 

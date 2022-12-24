@@ -16,8 +16,6 @@
 
 **astrology**: set of directives that can be described by [group theory](https://docs.choices.game/choices/choose-your-adventure/astrophysics/the-usdchoice-of-physics/group-theory) (a subfield of abstract algebra) on which a player starts as the fool.
 
-**artfilm**: a neo-conceptual art renaissance movement, meshing symmetrical aesthetically audiovisual narratives with tones of magick and the neo-cypherpunk culture.
-
 
 
 ## B
@@ -149,6 +147,8 @@
 ## M
 
 **magick**: _"i master magick, i master free will"._
+
+**midsumm3r**: a neo-conceptual magick renaissance movement, meshing symmetrical aesthetically audiovisual narratives with tones of the neo-cypherpunk culture.
 
 
 
