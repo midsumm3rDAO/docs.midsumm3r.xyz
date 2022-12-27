@@ -1,10 +1,4 @@
----
-description: i was a neophyte in another world.
----
-
 # ◻ n3ophyte fellowship
-
-****
 
 **an opportunity for folks with little magick experience to get paid to pursue their passion.**
 
@@ -26,27 +20,20 @@ description: i was a neophyte in another world.
 
 ****
 
-## wen?
-
-
+## <mark style="color:red;">wen?</mark>
 
 **ad infinitum.**
 
 
 
-## what will i do as a fellow?
-
-
+## <mark style="color:red;">what will i do as a fellow?</mark>
 
 **you already know.**
 
 
 
-## how do i get selected?
-
-
+## <mark style="color:red;">how do i get selected?</mark>
 
 **convince us that you know what we are thinking.**
 
 **anon  🏧  midsumm3r 👙 xyz**
-
