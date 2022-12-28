@@ -4,8 +4,6 @@
 
 **fellows will be awarded **<mark style="color:purple;">**$10k**</mark>** (USDC).**
 
-****
-
 **also:**
 
 **🌹 be part of our productions;**
@@ -18,19 +16,13 @@
 
 **🌹 swags.**&#x20;
 
-****
-
 ## <mark style="color:red;">wen?</mark>
 
 **ad infinitum.**
 
-
-
 ## <mark style="color:red;">what will i do as a fellow?</mark>
 
 **you already know.**
-
-
 
 ## <mark style="color:red;">how do i get selected?</mark>
 
