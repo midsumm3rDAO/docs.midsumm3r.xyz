@@ -10,11 +10,9 @@ description: >-
 
 ****
 
-**🌹** w**e are a neo-cypherpunk free-will based party;**
+w**e are a neo-cypherpunk free-will based party;**
 
-#### **🌹 the problems we are solving are related to the assumption that reality is unbounded;**
-
-#### **🌹 we build for pluto in aquarius;**
+#### **the problems we are solving are related to the assumption that reality is unbounded;**
 
 ****
 
