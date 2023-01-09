@@ -6,15 +6,13 @@
 
 **also:**
 
-**🌹 be part of our productions;**
-
 **🌹 exclusive gatherings;**
 
 **🌹 1-1 tutoring;**
 
 **🌹 havens;**
 
-**🌹 swags.**&#x20;
+**🌹 swags;**
 
 ## <mark style="color:red;">wen?</mark>
 
@@ -28,4 +26,4 @@
 
 **convince us that you know what we are thinking.**
 
-**anon  🏧  midsumm3r 👙 xyz**
+**anon  🏧  midsumm3r 👙 xyz.**
