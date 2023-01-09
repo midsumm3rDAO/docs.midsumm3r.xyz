@@ -148,7 +148,7 @@
 
 **magick**: _"i master magick, i master free will"._
 
-**midsumm3r**: a magick renaissance movement, meshing symmetrical aesthetically audiovisual narratives with tones of neo-cypherpunk culture.
+**midsumm3r**: a magick renaissance movement.
 
 
 
