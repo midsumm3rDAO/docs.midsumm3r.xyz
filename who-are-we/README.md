@@ -1,7 +1,7 @@
 ---
 description: >-
-  a magick renaissance movement, meshing symmetrical aesthetically audiovisual
-  narratives with tones of neo-cypherpunk culture.
+  a magick renaissance movement, meshing aesthetically symmetrical narratives
+  with tones of neo-cypherpunk culture.
 ---
 
 # ◼ \[ who are we ]
