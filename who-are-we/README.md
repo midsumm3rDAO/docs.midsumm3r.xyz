@@ -10,7 +10,7 @@ description: >-
 
 ****
 
-w**e are a neo-cypherpunk free-will based party;**
+**we are a neo-cypherpunk free-will based party;**
 
 #### **the problems we are solving are related to the assumption that reality is unbounded;**
 
