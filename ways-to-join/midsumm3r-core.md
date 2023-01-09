@@ -1,21 +1,18 @@
 # ◻ midsumm3r core
 
-|                               🧩                               |                      🧩                      |
-| :------------------------------------------------------------: | :------------------------------------------: |
-|   <mark style="color:purple;">**how we do our craft**</mark>   |                      🜃                      |
-|                                                                |          **remote + flexible work**          |
-|                              ****                              |            **travel produce art**            |
-|                                                                |           **reliable, smart peers**          |
-|                                                                |      **into the blockchains foreveeer**      |
-|                                                                |   **ultimately, freedom of **_**thought**_   |
-|      <mark style="color:purple;">**what we offer**</mark>      |                      🜁                      |
-|                                                                |             **fair compensation**            |
-|                                                                |                **fair equity**               |
-|                                                                |           **fair digital currency**          |
-|                                                                |            **celebratory events**            |
-|                                                                |             **the gear you need**            |
-|                                                                |                **safe havens**               |
-|                                                                |              **pick your title**             |
-| <mark style="color:purple;">**how you become a leader**</mark> |                      🜂                      |
-|                                                                | **learn from the best magi in this reality** |
-|                                                                |               **bend reality**               |
+|                         🌹                        |               🌹              |
+| :-----------------------------------------------: | :---------------------------: |
+|  <mark style="color:purple;">**the craft**</mark> |               🜃              |
+|                                                   |   **remote + flexible work**  |
+|                                                   |   **reliable, smart peers**   |
+|                                                   |  **freedom of **_**thought**_ |
+|  <mark style="color:purple;">**the offer**</mark> |               🜁              |
+|                                                   |     **fair compensation**     |
+|                                                   |        **fair equity**        |
+|                                                   |     **celebratory events**    |
+|                                                   |     **the gear you need**     |
+|                                                   |        **safe havens**        |
+|                                                   |      **pick your title**      |
+| <mark style="color:purple;">**ther perks**</mark> |               🜂              |
+|                                                   |    **learn from the best**    |
+|                                                   |        **bend reality**       |
