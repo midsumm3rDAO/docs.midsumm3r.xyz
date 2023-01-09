@@ -1,12 +1,10 @@
 # ◻ n3ophyte fellowship
 
-**an opportunity for folks with little magick experience to get paid to pursue their passion.**
+**an opportunity for folks with little magick experience to get paid to pursue their passion;**
 
-**fellows will be awarded **<mark style="color:purple;">**$10k**</mark>** (USDC).**
+**fellows will be awarded **<mark style="color:purple;">**$10k**</mark>** (USDC);**
 
 **also:**
-
-**🌹 be part of our productions;**
 
 **🌹 exclusive gatherings;**
 
@@ -14,18 +12,18 @@
 
 **🌹 havens;**
 
-**🌹 swags.**&#x20;
+**🌹 swags;**
 
 ## <mark style="color:red;">wen?</mark>
 
-**ad infinitum.**
+**ad infinitum;**
 
 ## <mark style="color:red;">what will i do as a fellow?</mark>
 
-**you already know.**
+**you already know;**
 
 ## <mark style="color:red;">how do i get selected?</mark>
 
-**convince us that you know what we are thinking.**
+**convince us that you know what we are thinking;**
 
-**anon  🏧  midsumm3r 👙 xyz**
+**anon  🏧  midsumm3r 👙 xyz;**
