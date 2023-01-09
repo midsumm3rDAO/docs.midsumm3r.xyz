@@ -10,9 +10,9 @@ description: '/ˌ𝗳𝗿ē ˈ𝘄𝗶𝗹/ (𝗻𝗼𝘂𝗻): a person''s own 
 
 
 
-**the future does not need to be like the past.**
+**the future does not need to be like the past;**
 
-**choices are infinite, no need to hurry.**&#x20;
+**choices are infinite;**
 
 
 
