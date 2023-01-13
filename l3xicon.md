@@ -14,7 +14,7 @@
 
 **aster**: magickian.
 
-**astrology**: set of directives that can be described by [group theory](https://docs.choices.game/choices/choose-your-adventure/astrophysics/the-usdchoice-of-physics/group-theory) (a subfield of abstract algebra) on which a player starts as the fool.
+**astrology**: set of directives that can be described by [group theory](https://docs.choices.game/choices/choose-your-adventure/astrophysics/the-usdchoice-of-physics/group-theory) (a subfield of abstract algebra) on which a player starts as the Fool.
 
 
 
@@ -148,7 +148,7 @@
 
 **magick**: _"i master magick, i master free will"._
 
-**midsumm3r**: a magick renaissance movement, meshing symmetrical aesthetically audiovisual narratives with tones of neo-cypherpunk culture.
+**midsumm3r**: a magick renaissance movement.
 
 
 
